@@ -1,0 +1,54 @@
+nav ul li{
+	list-style: none;
+	overflow-y: auto;
+}
+.imagen{
+	background-image: url(../img/home.jpg); 
+	width: 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	padding: 20%;
+}
+.titulo{
+	color:white;
+
+}
+.video{
+	padding: 5%;
+}
+.titulo2{
+	padding-bottom: 5%;
+}
+.img{
+	max-width: 100%;
+	
+}
+.amarillo{
+	background-color: #FFFF0E;
+	width: 100%;
+	padding:2%;
+}
+.contenido2{
+	padding: 4%;
+}
+.contacto{
+	padding:4%;
+}
+.img2{
+	max-width: 90%;
+	height: auto;
+
+}
+footer{
+	background-color: #388591;
+	padding: 2%;
+}
+footer p a{
+	text-decoration: none;
+	color:#FFFF0E;
+}
